@@ -1,0 +1,22 @@
+- .env.local
+- .gitignore
+- App.tsx
+- components
+  - AuthModal.tsx
+  - Header.tsx
+  - LoadingSpinner.tsx
+  - QuestionFeed.tsx
+  - QuestionModal.tsx
+  - QuestionView.tsx
+- index.html
+- index.tsx
+- metadata.json
+- package-lock.json
+- package.json
+- README.md
+- services
+  - firebase.ts
+  - geminiService.ts
+- tsconfig.json
+- types.ts
+- vite.config.ts

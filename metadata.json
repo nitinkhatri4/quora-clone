@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Quora Clone",
+  "description": "A feature-rich Quora clone leveraging Firebase for backend services and Google's Gemini API for AI-powered answer generation. Users can post questions, provide answers, vote, and search for content.",
+  "requestFramePermissions": []
+}
